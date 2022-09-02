@@ -44,7 +44,7 @@ To get a local copy:
   # To run the app: `npm run dev`
 
 ```
-## Collaborators 
+## Collaborator
 
 👤 Have Samuel Kabareebe<br>
 GitHub: [Have-Samuel](https://github.com/Have-Samuel)<br>
