@@ -46,16 +46,6 @@ To get a local copy:
 ```
 ## Collaborators 
 
-👤 Hemerson Foreste<br>
-GitHub: [@ForHemer](https://github.com/ForHemer)<br>
-Twitter: [@HemersonForeste](https://twitter.com/HemersonForeste)<br>
-LinkedIn: [Hemerson Foreste](https://www.linkedin.com/in/hemerson-foreste/)<br>
-
-👤 Firdavs Allamurotov<br>
-GitHub: [@fed1k](https://github.com/fed1k)<br>
-LinkedIn: [Firdavs Allamurotov](https://www.linkedin.com/in/firdavs-allamurotov/)<br>
-Twitter: [FirdavsDev](https://twitter.com/FirdavsDev)<br>
-
 👤 Have Samuel Kabareebe<br>
 GitHub: [Have-Samuel](https://github.com/Have-Samuel)<br>
 Twitter: [@samhave1](https://twitter.com/samhave1)<br>
