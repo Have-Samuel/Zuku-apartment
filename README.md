@@ -35,7 +35,7 @@
 To get a local copy:
 
 ```
-  Clone the repository of the project with: `git clone https://github.com/fed1k/Zuku-apartments-frontend-.git`
+  Clone the repository of the project with: `git clone git@github.com:Have-Samuel/Zuku-apartment.git`
   
   # cd Zuku-apartments-frontend-
 
@@ -56,14 +56,9 @@ GitHub: [@fed1k](https://github.com/fed1k)<br>
 LinkedIn: [Firdavs Allamurotov](https://www.linkedin.com/in/firdavs-allamurotov/)<br>
 Twitter: [FirdavsDev](https://twitter.com/FirdavsDev)<br>
 
-👤 Jason Mwanza<br>
-GitHub: [@blessedjasonmwanza](https://github.com/blessedjasonmwanza)<br>
-Twitter: [@mwanzabj](https://twitter.com/mwanzabj)<br>
-LinkedIn: [Blessed Jason Mwanza](https://www.linkedin.com/in/blessedjasonmwanza/)<br>
-
 👤 Have Samuel Kabareebe<br>
-GitHub: [@Have-Samuel](https://github.com/Have-Samuel)<br>
-Twitter: [@@samhave1](https://twitter.com/samhave1)<br>
+GitHub: [Have-Samuel](https://github.com/Have-Samuel)<br>
+Twitter: [@samhave1](https://twitter.com/samhave1)<br>
 LinkedIn: [Have Samuel Kabareebe](https://www.linkedin.com/in/have-samuel/)<br>
 
 <hr>
